@@ -1,0 +1,189 @@
+body {
+  font-family: "Monserrat";
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+*/
+.legend1 {
+  font-family: 'Monserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 800;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/*
+<button type="button" class="btn btn-dark">Dark</button>
+<button type="button" class="btn btn-outline-light">Light</button>
+<i class="fab fa-apple"></i>
+
+*/
+h1 {
+  font-family: "Monserrat-Black";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h2{
+  font-family: "Monserrat-Bold";
+  font-size: 3rem;
+  font-weight: 900;
+  line-height: 1.5;
+  /* margin: 1% 11%; */
+}
+
+h3{
+  font-family: "Monserrat-Bold";
+}
+
+/* Navigation Bar */
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Monserrat-Light";
+}
+
+/* Download buttons */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+/* Features Section*/
+
+#features{
+  padding: 7% 15%;
+  font-family: "Monserrat-Black";
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+p{
+  color: #a0c1b8;
+  font-family: "Monserrat-Light";
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+/* .feature1{
+background-color: red;
+}
+
+.feature2{
+background-color: red;
+}
+
+.feature3{
+background-color: red;
+} */
+.icon{
+  color: #ef8176;
+  margin-bottom: 1rem;
+}
+
+.icon-hover{
+  color: #ff4c68;
+}
+
+/* SectionTestimonials */
+
+#testimonials{
+  background-color: #ffc478;
+  text-align: center;
+  padding: 7% ;
+  color: #c19277;
+}
+
+.carousel-inner{
+  /* padding: 7px; */
+  /* border: 7px; */
+  /* margin: 7px; */
+}
+
+.carousel-item{
+  padding: 120px;
+}
+
+.testimonial-text1{
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.25;
+  padding-top: 7px;
+}
+
+.testimonial-text2{
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+
+.testimonial-text3{
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  /* margin: 0; */
+  /* border:7px; */
+  padding-bottom: 27px;
+}
+
+.dog-imgTes1{
+  width: 7%;
+  padding-bottom: 7px;
+  border-radius: 100%;
+}
+
+.lady-imgTes2{
+  width: 7%;
+  padding-bottom: 7px;
+  border-radius: 100%;
+}
+
+#press{
+  background-color: #ffc478;
+  text-align: center;
+  padding: 7px;
+}
+
+.press-logo{
+  width: 15%;
+  text-align: center;
+  /* padding: 1%; */
+  margin: 20px 20px 20px 50px;
+}
+
+/* SectionPricing */
